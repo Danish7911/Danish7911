@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋, I'm Danish Raza</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://pin.it/7c9oVHP79">/p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/cc/65/49/cc65497b0dddcb1a8b49ce6681e9e9e1.jpg">
 
 - 🌱 I’m currently learning **Node.js**
 
