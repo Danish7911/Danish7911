@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React.js<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me contact.mdanishr@gmail.com
+🌱 I’m currently learning Typscript<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me contact.mdanishr@gmail.com
 
 
 ## 🌐 Socials:
